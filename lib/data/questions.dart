@@ -1,6 +1,6 @@
 import 'package:second_app/models/quiz_question.dart';
 
-const question = [
+const questions = [
   QuizQuestion('Apa rasa susu kesukaan alittria?',
     [
       'Strawberry',
