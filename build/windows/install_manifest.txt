@@ -1,0 +1,11 @@
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/icudtl.dat
+E:/belajar_flutter/second_app/build/windows/runner/Debug/flutter_windows.dll
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.bin
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/assets/images/quiz-logo.png
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+E:/belajar_flutter/second_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

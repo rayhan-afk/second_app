@@ -1,0 +1,28 @@
+^E:\BELAJAR_FLUTTER\SECOND_APP\BUILD\WINDOWS\CMAKEFILES\E63B77FBCA54726116AC5E1883E348CD\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=E:\dev\flutter PROJECT_DIR=E:\belajar_flutter\second_app FLUTTER_ROOT=E:\dev\flutter FLUTTER_EPHEMERAL_DIR=E:\belajar_flutter\second_app\windows\flutter\ephemeral PROJECT_DIR=E:\belajar_flutter\second_app FLUTTER_TARGET=E:\belajar_flutter\second_app\lib\main.dart DART_DEFINES=RkxVVFRFUl9XRUJfQVVUT19ERVRFQ1Q9dHJ1ZQ==,RkxVVFRFUl9XRUJfQ0FOVkFTS0lUX1VSTD1odHRwczovL3d3dy5nc3RhdGljLmNvbS9mbHV0dGVyLWNhbnZhc2tpdC9hNzk0Y2YyNjgxYzZjOWZlN2IyNjBlMGU4NGRlOTYyOThkYzljMThiLw== DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=E:\belajar_flutter\second_app\.dart_tool\package_config.json E:/dev/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\BELAJAR_FLUTTER\SECOND_APP\BUILD\WINDOWS\CMAKEFILES\DA8F0ACB6342F872AF7310C1D31C7DC1\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^E:\BELAJAR_FLUTTER\SECOND_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/belajar_flutter/second_app/windows -BE:/belajar_flutter/second_app/build/windows --check-stamp-file E:/belajar_flutter/second_app/build/windows/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
