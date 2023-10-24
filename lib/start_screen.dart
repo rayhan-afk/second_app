@@ -26,7 +26,7 @@ class StartScreen extends StatelessWidget {
           // ),
           const SizedBox(height: 80),
           Text(
-            'Ayo quiz bersama alitt',
+            'Ayo quiz bersama alitt!',
             style: GoogleFonts.lato (
               color: const Color.fromARGB(255, 255, 255, 255),
               fontSize: 24,
