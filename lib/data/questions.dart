@@ -16,12 +16,12 @@ const questions = [
     '12',
   ]),
   QuizQuestion(
-    'Apa genre film favorit alittria?',
+    'Tema novel favorit dinda apa?',
     [
-      'Horror',
-      'Thriller',
-      'Comdey',
+      'Kerajaan',
+      'Sekolah',
       'Romance',
+      'Horror',
     ],
   ),
   QuizQuestion(
