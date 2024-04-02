@@ -1,19 +1,19 @@
 import 'package:second_app/models/quiz_question.dart';
 
 const questions = [
-  QuizQuestion('Apa rasa susu kesukaan alittria?',
+  QuizQuestion('Buah apa yang menjadi favorit dinda?',
     [
-      'Strawberry',
-      'Coklat',
-      'Vanilla',
+      'Durian',
+      'Apel',
+      'Jambu',
       'Mangga',
     ],
   ),
-  QuizQuestion('Kapan tanggal lahir alittria?', [
-    '11 Maret 2005',
-    '25 Januari 2002',
-    '11 Januari 2005',
-    '25 Maret 2002',
+  QuizQuestion('Dinda tahun ini umurnya berapa?', [
+    '19',
+    '20',
+    '35',
+    '12',
   ]),
   QuizQuestion(
     'Apa genre film favorit alittria?',
