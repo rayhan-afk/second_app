@@ -9,7 +9,8 @@ const questions = [
       'Mangga',
     ],
   ),
-  QuizQuestion('Dinda tahun ini umurnya berapa?', [
+  QuizQuestion('Dinda tahun ini umurnya berapa?', 
+  [
     '19',
     '20',
     '35',
@@ -25,30 +26,30 @@ const questions = [
     ],
   ),
   QuizQuestion(
-    'Apa cemilan favorit alittria?',
+    'Apa makanan favorit dinda di PT?',
     [
-      'Bakso Bakar',
+      'Ketoprak',
       'Sosis Bakar',
       'Batagor',
       'Siomay',
     ],
   ),
   QuizQuestion(
-    'Apa warna kesukaan alittria?',
+    'Apa genre musik favorit dinda?',
     [
-      'Pink',
-      'Ungu',
-      'Biru',
-      'Hijau',
+      'Semuanya suka kalo enak',
+      'Pop Punk',
+      'Rock',
+      'Metal',
     ],
   ),
   QuizQuestion(
-    'Siapa orang favorit alittria?',
+    'Siapa orang yang sangat mirip dengan dinda?',
     [
-      'Rayhan Abduhuda',
-      'Ray',
-      'Rayhan',
-      'Abduhuda',
+      'Jennie Blackpink',
+      'Dinda sendiri',
+      'Tryas',
+      'Yasmin',
     ],
   ),
 ];
