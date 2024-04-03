@@ -1,0 +1,1 @@
+ E:\\belajar_flutter\\second_app\\.dart_tool\\flutter_build\\b6a64f25c7b837cd3226a6d327ff6627\\native_assets.yaml: 
